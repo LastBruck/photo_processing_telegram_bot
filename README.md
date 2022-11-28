@@ -19,6 +19,11 @@
 - Установить библиотеку **pyTelegramBotAPI**  
 > pip install pyTelegramBotAPI
 
+- Установить библиотеку **rembg**  
+> pip install rembg
+
+- Установить Tesseract OCR
+
 - Создать бота в **Telegram** и получить секретный ключ
 > @BotFather
 
