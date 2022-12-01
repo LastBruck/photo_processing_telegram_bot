@@ -10,9 +10,8 @@
 ### В создании использовались:
 
 - Библиотека для создания бота **pyTelegramBotAPI**  
-- Для удаления заднего фона с фото **rembg** созданный [Daniel Gatis](https://github.com/danielgatis)  
-- Для определения текста [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-
+- Для удаления заднего фона с фото **rembg**  
+- Для определения текста **Tesseract OCR**  
 
 ### Для работы вам понадобится:  
 
