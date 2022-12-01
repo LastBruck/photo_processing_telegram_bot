@@ -21,7 +21,7 @@
 - Установить библиотеку **rembg**  
 > pip install rembg
 
-- Установить Tesseract OCR
+- Установить **Tesseract OCR**
 
 - Создать бота в **Telegram** и получить секретный ключ
 > @BotFather
